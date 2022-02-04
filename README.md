@@ -16,5 +16,4 @@
 - 👯 I’m looking to collaborate on many open source projects
 - 💬 Ask me about anything
 - 📫 How to reach me: Email Me:tejastomar2002@gmail.com
-- ⚡ Fun fact: 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejastomarbyte&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
