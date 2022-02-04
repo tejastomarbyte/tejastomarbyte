@@ -16,4 +16,10 @@
 - 👯 I’m looking to collaborate on many open source projects
 - 💬 Ask me about anything
 - 📫 How to reach me: Email Me:tejastomar2002@gmail.com
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tejastomarbyte&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<h3 align="left">Top Languages </h3> 
+<p align="left">
+  <a href="https://github.com/themonikanayak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejastomarbyte&theme=radical" align="center" />
+  </a>
+</p>
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=tejastomarbyte&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
